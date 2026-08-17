@@ -1,0 +1,260 @@
+Feature Requested,Customers_Requesting,Feedback_Count,Avg_Severity,Avg_Customer_Impact,Avg_Business_Value,Avg_Strategic_Alignment,Avg_Effort,Avg_Priority,Priority Classification
+Bulk user management,4,4,4.25,4.75,3.415,4.75,2.25,3.8575,High Priority
+Faster dashboard loading,8,8,4.75,4.75,3.625,3.875,2.875,3.59125,High Priority
+Workflow automation,8,8,4.875,4.75,3.6262499999999998,4.625,3.25,3.585,High Priority
+Onboarding checklist,7,7,4.0,4.0,4.144285714285714,5.0,3.142857142857143,3.5614285714285714,High Priority
+SSO enhancement,3,3,4.666666666666667,5.0,3.4433333333333334,4.333333333333333,3.0,3.5433333333333334,High Priority
+API integration,5,5,4.0,3.4,3.934,3.8,1.8,3.532,High Priority
+Advanced search,6,6,3.8333333333333335,5.0,3.4450000000000003,4.333333333333333,3.1666666666666665,3.5116666666666667,High Priority
+Slack integration,3,3,4.666666666666667,4.666666666666667,3.3333333333333335,4.666666666666667,2.6666666666666665,3.4066666666666663,High Priority
+Advanced reporting filters,5,5,5.0,4.4,2.932,3.6,2.6,3.1740000000000004,Medium Priority
+Transparent pricing,6,6,3.1666666666666665,4.166666666666667,3.5,4.5,3.5,3.1483333333333334,Medium Priority
+Custom notification rules,3,3,4.666666666666667,4.0,3.1133333333333333,3.3333333333333335,3.0,3.1233333333333335,Medium Priority
+Better collaboration comments,3,3,2.3333333333333335,4.333333333333333,3.4433333333333334,4.333333333333333,3.0,3.0500000000000003,Medium Priority
+Mobile push notifications,4,4,3.5,4.25,3.0,4.5,3.75,3.0325,Medium Priority
+Team workflows,4,4,2.75,2.25,4.085,3.75,3.0,2.7875,Medium Priority
+Offline mobile access,4,4,3.0,4.0,2.915,2.25,3.75,2.65,Medium Priority
+CSV export improvements,4,4,3.0,3.0,3.7475,2.25,3.75,2.625,Low Priority
+Calendar integration,5,5,3.6,3.0,2.266,2.8,3.6,2.258,Low Priority
+
+Feedback ID,Feedback Type,Product Area,Pain Point Category,Feature Requested,Severity Level,Sentiment Label,Priority Band
+FB-0001,Feature Request,Reporting & Analytics,Slow page performance,Faster dashboard loading,4,Negative,Medium Priority
+FB-0002,Feature Request,Reporting & Analytics,Export limitations,CSV export improvements,3,Neutral,Low Priority
+FB-0003,Product Enhancement,Automation,Repetitive manual work,Workflow automation,5,Neutral,High Priority
+FB-0004,Feature Request,Automation,Repetitive manual work,Workflow automation,5,Positive,High Priority
+FB-0005,Feature Request,Integrations,Scheduling friction,Calendar integration,4,Negative,Medium Priority
+FB-0006,Feature Request,Reporting & Analytics,Slow page performance,Faster dashboard loading,4,Neutral,Medium Priority
+FB-0007,Product Enhancement,Billing,Pricing confusion,Transparent pricing,3,Positive,Low Priority
+FB-0008,Feature Request,Security & Admin,Manual admin work,Bulk user management,5,Negative,Critical
+FB-0009,Feature Request,Onboarding,Unclear setup process,Onboarding checklist,4,Negative,High Priority
+FB-0010,Product Enhancement,Onboarding,Unclear setup process,Onboarding checklist,5,Negative,High Priority
+FB-0011,Product Enhancement,Integrations,Scheduling friction,Calendar integration,3,Positive,Low Priority
+FB-0012,Feature Request,Integrations,Scheduling friction,Calendar integration,4,Negative,Low Priority
+FB-0013,Feature Request,Reporting & Analytics,Limited reporting flexibility,Advanced reporting filters,5,Neutral,Medium Priority
+FB-0014,Product Enhancement,Search & Navigation,Difficulty finding records,Advanced search,4,Neutral,High Priority
+FB-0015,Feature Request,Onboarding,Unclear setup process,Onboarding checklist,3,Negative,Critical
+FB-0016,Integration Request,Integrations,API integration,API integration,4,Positive,Medium Priority
+FB-0017,Customer Experience Issue,Customer Support,Support response time,,5,Neutral,Medium Priority
+FB-0018,Bug,Mobile App,App crash,,5,Negative,Medium Priority
+FB-0019,Usability Issue,Onboarding,Confusing setup,,4,Positive,High Priority
+FB-0020,Product Enhancement,Onboarding,Unclear setup process,Onboarding checklist,3,Neutral,High Priority
+FB-0021,Feature Request,Reporting & Analytics,Limited reporting flexibility,Advanced reporting filters,5,Neutral,Medium Priority
+FB-0022,Performance Issue,Reporting & Analytics,Slow reporting,,5,Negative,Medium Priority
+FB-0023,Product Enhancement,Onboarding,Unclear setup process,Onboarding checklist,4,Positive,Medium Priority
+FB-0024,Feature Request,Automation,Repetitive manual work,Workflow automation,5,Positive,Medium Priority
+FB-0025,Product Enhancement,Notifications,Notification noise,Custom notification rules,5,Positive,Medium Priority
+FB-0026,Product Enhancement,Reporting & Analytics,Slow page performance,Faster dashboard loading,5,Neutral,High Priority
+FB-0027,Positive Feedback,Automation,Automation value,,2,Positive,Low Priority
+FB-0028,Feature Request,Automation,Repetitive manual work,Workflow automation,5,Negative,High Priority
+FB-0029,Feature Request,Reporting & Analytics,Export limitations,CSV export improvements,2,Negative,Low Priority
+FB-0030,Feature Request,Search & Navigation,Difficulty finding records,Advanced search,3,Negative,Medium Priority
+FB-0031,Feature Request,Integrations,Missing workflow integration,Slack integration,5,Neutral,High Priority
+FB-0032,Integration Request,Integrations,API integration,API integration,5,Negative,High Priority
+FB-0033,Product Enhancement,Mobile App,Connectivity limitation,Offline mobile access,3,Negative,Low Priority
+FB-0034,Product Enhancement,Search & Navigation,Difficulty finding records,Advanced search,4,Negative,Medium Priority
+FB-0035,Integration Request,Integrations,API integration,API integration,3,Negative,High Priority
+FB-0036,Feature Request,Integrations,Scheduling friction,Calendar integration,3,Negative,Low Priority
+FB-0037,Bug,Billing,Invoice issue,,5,Negative,Medium Priority
+FB-0038,Feature Request,Integrations,Missing workflow integration,Slack integration,5,Negative,High Priority
+FB-0039,Performance Issue,Reporting & Analytics,Slow reporting,,4,Negative,Medium Priority
+FB-0040,Product Enhancement,Collaboration,Team workflows,Team workflows,2,Positive,Low Priority
+FB-0041,Positive Feedback,Automation,Automation value,,1,Positive,Low Priority
+FB-0042,Feature Request,Integrations,Missing workflow integration,Slack integration,4,Positive,Medium Priority
+FB-0043,Product Enhancement,Notifications,Notification noise,Custom notification rules,5,Positive,Medium Priority
+FB-0044,Feature Request,Billing,Pricing confusion,Transparent pricing,3,Positive,Critical
+FB-0045,Product Enhancement,Notifications,Limited mobile alerts,Mobile push notifications,4,Negative,Low Priority
+FB-0046,Positive Feedback,Automation,Automation value,,1,Positive,Low Priority
+FB-0047,Product Enhancement,Mobile App,Connectivity limitation,Offline mobile access,4,Positive,Low Priority
+FB-0048,Usability Issue,Onboarding,Confusing setup,,5,Neutral,Low Priority
+FB-0049,Feature Request,Mobile App,Connectivity limitation,Offline mobile access,2,Neutral,Medium Priority
+FB-0050,Product Enhancement,Security & Admin,Authentication limitation,SSO enhancement,5,Positive,Critical
+FB-0051,Positive Feedback,Reporting & Analytics,Reporting value,,1,Positive,Medium Priority
+FB-0052,Bug,Billing,Invoice issue,,5,Negative,Medium Priority
+FB-0053,Usability Issue,Onboarding,Confusing setup,,4,Negative,Low Priority
+FB-0054,Product Enhancement,Reporting & Analytics,Limited reporting flexibility,Advanced reporting filters,5,Positive,High Priority
+FB-0055,Product Enhancement,Automation,Repetitive manual work,Workflow automation,5,Positive,High Priority
+FB-0056,Feature Request,Security & Admin,Authentication limitation,SSO enhancement,4,Neutral,Medium Priority
+FB-0057,Product Enhancement,Collaboration,Team workflows,Team workflows,3,Neutral,Low Priority
+FB-0058,Feature Request,Billing,Pricing confusion,Transparent pricing,2,Neutral,Low Priority
+FB-0059,Feature Request,Reporting & Analytics,Limited reporting flexibility,Advanced reporting filters,5,Neutral,Medium Priority
+FB-0060,Feature Request,Search & Navigation,Difficulty finding records,Advanced search,3,Neutral,Critical
+FB-0061,Bug,Billing,Invoice issue,,4,Negative,Medium Priority
+FB-0062,Bug,Mobile App,App crash,,5,Negative,Medium Priority
+FB-0063,Integration Request,Integrations,API integration,API integration,4,Negative,Medium Priority
+FB-0064,Product Enhancement,Reporting & Analytics,Export limitations,CSV export improvements,3,Negative,Medium Priority
+FB-0065,Product Enhancement,Notifications,Limited mobile alerts,Mobile push notifications,3,Neutral,Medium Priority
+FB-0066,Feature Request,Onboarding,Unclear setup process,Onboarding checklist,4,Positive,High Priority
+FB-0067,Product Enhancement,Collaboration,Team workflows,Team workflows,3,Positive,Medium Priority
+FB-0068,Product Enhancement,Notifications,Notification noise,Custom notification rules,4,Negative,Medium Priority
+FB-0069,Pricing Feedback,Billing,Plan value,,3,Neutral,High Priority
+FB-0070,Product Enhancement,Collaboration,Team collaboration friction,Better collaboration comments,2,Negative,Critical
+FB-0071,Product Enhancement,Reporting & Analytics,Slow page performance,Faster dashboard loading,5,Neutral,Critical
+FB-0072,Feature Request,Search & Navigation,Difficulty finding records,Advanced search,4,Negative,High Priority
+FB-0073,Product Enhancement,Security & Admin,Manual admin work,Bulk user management,4,Negative,High Priority
+FB-0074,Performance Issue,Reporting & Analytics,Slow reporting,,4,Negative,High Priority
+FB-0075,Product Enhancement,Search & Navigation,Difficulty finding records,Advanced search,5,Positive,Medium Priority
+FB-0076,Performance Issue,Reporting & Analytics,Slow reporting,,4,Negative,High Priority
+FB-0077,Pricing Feedback,Billing,Plan value,,3,Positive,Low Priority
+FB-0078,Feature Request,Reporting & Analytics,Slow page performance,Faster dashboard loading,5,Negative,Critical
+FB-0079,Product Enhancement,Reporting & Analytics,Limited reporting flexibility,Advanced reporting filters,5,Neutral,Medium Priority
+FB-0080,Pricing Feedback,Billing,Plan value,,3,Positive,Low Priority
+FB-0081,Feature Request,Security & Admin,Manual admin work,Bulk user management,4,Positive,High Priority
+FB-0082,Positive Feedback,Automation,Automation value,,1,Positive,Medium Priority
+FB-0083,Feature Request,Notifications,Limited mobile alerts,Mobile push notifications,4,Negative,Medium Priority
+FB-0084,Performance Issue,Reporting & Analytics,Slow reporting,,4,Negative,Low Priority
+FB-0085,Product Enhancement,Collaboration,Team workflows,Team workflows,3,Neutral,High Priority
+FB-0086,Customer Experience Issue,Customer Support,Support response time,,4,Positive,Low Priority
+FB-0087,Performance Issue,Reporting & Analytics,Slow reporting,,5,Negative,Medium Priority
+FB-0088,Bug,Billing,Invoice issue,,5,Negative,High Priority
+FB-0089,Feature Request,Reporting & Analytics,Slow page performance,Faster dashboard loading,5,Negative,High Priority
+FB-0090,Feature Request,Automation,Repetitive manual work,Workflow automation,5,Negative,Medium Priority
+FB-0091,Feature Request,Billing,Pricing confusion,Transparent pricing,4,Negative,Medium Priority
+FB-0092,Feature Request,Reporting & Analytics,Slow page performance,Faster dashboard loading,5,Positive,High Priority
+FB-0093,Product Enhancement,Security & Admin,Authentication limitation,SSO enhancement,5,Negative,High Priority
+FB-0094,Pricing Feedback,Billing,Plan value,,4,Negative,Medium Priority
+FB-0095,Pricing Feedback,Billing,Plan value,,3,Neutral,High Priority
+FB-0096,Customer Experience Issue,Customer Support,Support response time,,5,Neutral,Medium Priority
+FB-0097,Product Enhancement,Billing,Pricing confusion,Transparent pricing,4,Negative,Medium Priority
+FB-0098,Product Enhancement,Onboarding,Unclear setup process,Onboarding checklist,5,Positive,Medium Priority
+FB-0099,Usability Issue,Onboarding,Confusing setup,,4,Neutral,High Priority
+FB-0100,Customer Experience Issue,Customer Support,Support response time,,4,Positive,High Priority
+FB-0101,Feature Request,Mobile App,Connectivity limitation,Offline mobile access,3,Neutral,Low Priority
+FB-0102,Performance Issue,Reporting & Analytics,Slow reporting,,5,Negative,Medium Priority
+FB-0103,Integration Request,Integrations,API integration,API integration,4,Negative,Critical
+FB-0104,Positive Feedback,Automation,Automation value,,1,Positive,Low Priority
+FB-0105,Customer Experience Issue,Customer Support,Support response time,,4,Negative,Medium Priority
+FB-0106,Product Enhancement,Integrations,Scheduling friction,Calendar integration,4,Neutral,Low Priority
+FB-0107,Product Enhancement,Reporting & Analytics,Slow page performance,Faster dashboard loading,5,Positive,High Priority
+FB-0108,Feature Request,Collaboration,Team collaboration friction,Better collaboration comments,2,Negative,Low Priority
+FB-0109,Positive Feedback,Automation,Automation value,,2,Positive,Medium Priority
+FB-0110,Customer Experience Issue,Customer Support,Support response time,,5,Positive,Critical
+FB-0111,Feature Request,Automation,Repetitive manual work,Workflow automation,4,Negative,High Priority
+FB-0112,Feature Request,Notifications,Limited mobile alerts,Mobile push notifications,3,Negative,High Priority
+FB-0113,Customer Experience Issue,Customer Support,Support response time,,5,Positive,Medium Priority
+FB-0114,Feature Request,Collaboration,Team collaboration friction,Better collaboration comments,3,Positive,Medium Priority
+FB-0115,Positive Feedback,Automation,Automation value,,1,Positive,Low Priority
+FB-0116,Bug,Mobile App,App crash,,5,Negative,Medium Priority
+FB-0117,Feature Request,Billing,Pricing confusion,Transparent pricing,3,Positive,High Priority
+FB-0118,Product Enhancement,Reporting & Analytics,Export limitations,CSV export improvements,4,Neutral,Medium Priority
+FB-0119,Product Enhancement,Security & Admin,Manual admin work,Bulk user management,4,Negative,Medium Priority
+FB-0120,Feature Request,Automation,Repetitive manual work,Workflow automation,5,Neutral,High Priority
+
+# Feedback Prioritization Methodology
+
+## Decision Flow
+CUSTOMER FEEDBACK → PAIN POINT → CUSTOMER IMPACT → BUSINESS VALUE → STRATEGIC ALIGNMENT → PRIORITY → ROADMAP DECISION
+
+## Scoring
+- Customer Impact: 1–5
+- Business Value: revenue impact + retention risk + strategic alignment
+- Strategic Alignment: 1–5
+- Development Effort: 1–5
+- Priority Score: weighted combination of impact, business value, alignment, frequency, severity and retention risk, adjusted for effort.
+
+## Priority Classes
+Critical | High Priority | Medium Priority | Low Priority | Monitor | Reject / Not Aligned
+
+## Impact vs Effort
+- High Impact + Low Effort = Quick Wins
+- High Impact + High Effort = Strategic Initiatives
+- Low Impact + Low Effort = Fill-ins
+- Low Impact + High Effort = Avoid/Postpone
+
+Feature Requested,Impact Score,Effort Score,Quadrant,Avg_Priority
+Bulk user management,4.3495,2.25,Quick Win,3.8575
+Faster dashboard loading,4.2375,2.875,Quick Win,3.59125
+Workflow automation,4.387875,3.25,Strategic Initiative,3.585
+Onboarding checklist,4.243285714285714,3.142857142857143,Strategic Initiative,3.5614285714285714
+SSO enhancement,4.399666666666667,3.0,Strategic Initiative,3.5433333333333334
+API integration,3.6402,1.8,Quick Win,3.532
+Advanced search,4.400166666666667,3.1666666666666665,Strategic Initiative,3.5116666666666667
+Slack integration,4.266666666666667,2.6666666666666665,Quick Win,3.4066666666666663
+Advanced reporting filters,3.7996000000000003,2.6,Quick Win,3.1740000000000004
+Transparent pricing,4.033333333333334,3.5,Strategic Initiative,3.1483333333333334
+Custom notification rules,3.600666666666667,3.0,Strategic Initiative,3.1233333333333335
+Better collaboration comments,4.066333333333333,3.0,Strategic Initiative,3.0500000000000003
+Mobile push notifications,3.925,3.75,Strategic Initiative,3.0325
+Team workflows,3.1005000000000003,3.0,Avoid/Postpone,2.7875
+Offline mobile access,3.3245,3.75,Avoid/Postpone,2.65
+CSV export improvements,3.07425,3.75,Avoid/Postpone,2.625
+Calendar integration,2.7398000000000002,3.6,Avoid/Postpone,2.258
+
+# Product Management Concepts Used
+
+| Concept | Application |
+|---|---|
+| Voice of Customer | Captures customer needs and pain points |
+| Customer Discovery | Validates the problem behind requests |
+| Customer Feedback Loop | Collect → analyze → decide → build → communicate → measure |
+| Customer Pain Points | Converts friction into actionable problems |
+| Product-Market Fit | Uses evidence of recurring customer value |
+| Product Strategy | Filters opportunities through strategic themes |
+| Product Vision | Long-term product direction |
+| Product Roadmap | Converts priorities into Now / Next / Later |
+| Backlog Management | Keeps ideas visible without overcommitting |
+| Feature Prioritization | Ranks opportunities using evidence |
+| Customer Retention | Highlights churn-risk signals |
+| Customer Satisfaction | Uses CSAT |
+| NPS | Measures promoters and detractors |
+| Stakeholder Management | Balances customer, sales, success, engineering and business inputs |
+
+## Feedback Source Quality
+Interviews provide depth; surveys provide scale; NPS provides relationship-level signal; support tickets expose concrete problems; reviews reveal public sentiment; sales provides revenue context; Customer Success provides account and retention context; social/community provides emerging themes; usage data provides behavioral evidence.
+
+Sentiment Label,Feedback_Count,Avg_CSAT,Avg_NPS,Avg_Sentiment
+Negative,52,3.0384615384615383,5.3076923076923075,-0.4825
+Neutral,29,3.2758620689655173,5.0,-0.0034482758620689637
+Positive,39,3.7435897435897436,6.512820512820513,0.4466666666666667
+
+Customer Feedback,Product Area,Pain Point,Severity,Customer Segment,Revenue Impact,Retention Risk,Priority,Product Manager Decision,Roadmap Status
+Please support our identity provider,Security & Admin,Authentication limitation,5,Enterprise,High,Medium,Critical,Critical,Q3 2026
+Please improve dashboard speed,Reporting & Analytics,Slow page performance,5,Enterprise,Medium,High,Critical,Critical,Q3 2026
+Bulk user actions would save our admin team time,Security & Admin,Manual admin work,5,SMB,Medium,High,Critical,Critical,Now
+Please add advanced search,Search & Navigation,Difficulty finding records,3,Mid-Market,Medium,Medium,Critical,Critical,Q3 2026
+Please expand API capabilities,Integrations,API integration,4,Startup,Medium,High,Critical,Critical,Q3 2026
+Collaboration could be easier,Collaboration,Team collaboration friction,2,Enterprise,High,High,Critical,Critical,Now
+A setup checklist would help,Onboarding,Unclear setup process,3,SMB,Medium,Medium,Critical,Critical,Q3 2026
+We need more transparent pricing,Billing,Pricing confusion,3,SMB,Medium,Medium,Critical,Critical,Q3 2026
+Analytics pages feel slow,Reporting & Analytics,Slow page performance,5,Mid-Market,Medium,Medium,Critical,Critical,Q3 2026
+We need faster issue resolution,Customer Support,Support response time,5,Enterprise,Medium,Medium,Critical,Critical,Now
+Bulk user actions would save our admin team time,Security & Admin,Manual admin work,4,SMB,Medium,High,High Priority,High Priority,Q4 2026
+Search needs more filters,Search & Navigation,Difficulty finding records,4,Mid-Market,Medium,Medium,High Priority,High Priority,Q3 2026
+The onboarding flow is confusing,Onboarding,Unclear setup process,5,Enterprise,Medium,Medium,High Priority,High Priority,Q4 2026
+Bulk user actions would save our admin team time,Security & Admin,Manual admin work,4,SMB,Low,Low,High Priority,High Priority,Q3 2026
+Large reports take too long to open,Reporting & Analytics,Slow reporting,4,Enterprise,Medium,Medium,High Priority,High Priority,Q3 2026
+
+| Customer Feedback                                | Product Area          | Pain Point                  |   Severity | Customer Segment   | Revenue Impact   | Retention Risk   | Priority      | Product Manager Decision   | Roadmap Status   |
+|:-------------------------------------------------|:----------------------|:----------------------------|-----------:|:-------------------|:-----------------|:-----------------|:--------------|:---------------------------|:-----------------|
+| Please support our identity provider             | Security & Admin      | Authentication limitation   |          5 | Enterprise         | High             | Medium           | Critical      | Critical                   | Q3 2026          |
+| Please improve dashboard speed                   | Reporting & Analytics | Slow page performance       |          5 | Enterprise         | Medium           | High             | Critical      | Critical                   | Q3 2026          |
+| Bulk user actions would save our admin team time | Security & Admin      | Manual admin work           |          5 | SMB                | Medium           | High             | Critical      | Critical                   | Now              |
+| Please add advanced search                       | Search & Navigation   | Difficulty finding records  |          3 | Mid-Market         | Medium           | Medium           | Critical      | Critical                   | Q3 2026          |
+| Please expand API capabilities                   | Integrations          | API integration             |          4 | Startup            | Medium           | High             | Critical      | Critical                   | Q3 2026          |
+| Collaboration could be easier                    | Collaboration         | Team collaboration friction |          2 | Enterprise         | High             | High             | Critical      | Critical                   | Now              |
+| A setup checklist would help                     | Onboarding            | Unclear setup process       |          3 | SMB                | Medium           | Medium           | Critical      | Critical                   | Q3 2026          |
+| We need more transparent pricing                 | Billing               | Pricing confusion           |          3 | SMB                | Medium           | Medium           | Critical      | Critical                   | Q3 2026          |
+| Analytics pages feel slow                        | Reporting & Analytics | Slow page performance       |          5 | Mid-Market         | Medium           | Medium           | Critical      | Critical                   | Q3 2026          |
+| We need faster issue resolution                  | Customer Support      | Support response time       |          5 | Enterprise         | Medium           | Medium           | Critical      | Critical                   | Now              |
+| Bulk user actions would save our admin team time | Security & Admin      | Manual admin work           |          4 | SMB                | Medium           | High             | High Priority | High Priority              | Q4 2026          |
+| Search needs more filters                        | Search & Navigation   | Difficulty finding records  |          4 | Mid-Market         | Medium           | Medium           | High Priority | High Priority              | Q3 2026          |
+| The onboarding flow is confusing                 | Onboarding            | Unclear setup process       |          5 | Enterprise         | Medium           | Medium           | High Priority | High Priority              | Q4 2026          |
+| Bulk user actions would save our admin team time | Security & Admin      | Manual admin work           |          4 | SMB                | Low              | Low              | High Priority | High Priority              | Q3 2026          |
+| Large reports take too long to open              | Reporting & Analytics | Slow reporting              |          4 | Enterprise         | Medium           | Medium           | High Priority | High Priority              | Q3 2026          |
+# Conflicting Feedback Decision Case
+
+- Enterprise customer requests Feature A.
+- 100 free users request Feature B.
+- Sales requests Feature C.
+- Engineering says Feature A requires major architecture changes.
+
+## Product Manager Decision Framework
+1. Identify the underlying problem behind each request.
+2. Quantify affected customers and revenue exposure.
+3. Compare retention risk and strategic alignment.
+4. Validate whether the requesting segment matches the target market.
+5. Assess qualified pipeline/revenue evidence for Sales requests.
+6. Estimate engineering complexity and opportunity cost.
+7. Run discovery where assumptions are uncertain.
+8. Select the option with the strongest combined customer impact, business value, strategic fit and feasible effort.
+
+Customer volume alone does not determine the roadmap.
