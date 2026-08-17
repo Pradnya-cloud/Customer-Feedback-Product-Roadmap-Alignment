@@ -1,0 +1,16 @@
+Customer Feedback,Product Area,Pain Point,Severity,Customer Segment,Revenue Impact,Retention Risk,Priority,Product Manager Decision,Roadmap Status
+Please support our identity provider,Security & Admin,Authentication limitation,5,Enterprise,High,Medium,Critical,Critical,Q3 2026
+Please improve dashboard speed,Reporting & Analytics,Slow page performance,5,Enterprise,Medium,High,Critical,Critical,Q3 2026
+Bulk user actions would save our admin team time,Security & Admin,Manual admin work,5,SMB,Medium,High,Critical,Critical,Now
+Please add advanced search,Search & Navigation,Difficulty finding records,3,Mid-Market,Medium,Medium,Critical,Critical,Q3 2026
+Please expand API capabilities,Integrations,API integration,4,Startup,Medium,High,Critical,Critical,Q3 2026
+Collaboration could be easier,Collaboration,Team collaboration friction,2,Enterprise,High,High,Critical,Critical,Now
+A setup checklist would help,Onboarding,Unclear setup process,3,SMB,Medium,Medium,Critical,Critical,Q3 2026
+We need more transparent pricing,Billing,Pricing confusion,3,SMB,Medium,Medium,Critical,Critical,Q3 2026
+Analytics pages feel slow,Reporting & Analytics,Slow page performance,5,Mid-Market,Medium,Medium,Critical,Critical,Q3 2026
+We need faster issue resolution,Customer Support,Support response time,5,Enterprise,Medium,Medium,Critical,Critical,Now
+Bulk user actions would save our admin team time,Security & Admin,Manual admin work,4,SMB,Medium,High,High Priority,High Priority,Q4 2026
+Search needs more filters,Search & Navigation,Difficulty finding records,4,Mid-Market,Medium,Medium,High Priority,High Priority,Q3 2026
+The onboarding flow is confusing,Onboarding,Unclear setup process,5,Enterprise,Medium,Medium,High Priority,High Priority,Q4 2026
+Bulk user actions would save our admin team time,Security & Admin,Manual admin work,4,SMB,Low,Low,High Priority,High Priority,Q3 2026
+Large reports take too long to open,Reporting & Analytics,Slow reporting,4,Enterprise,Medium,Medium,High Priority,High Priority,Q3 2026

@@ -1,0 +1,121 @@
+Feedback ID,Feedback Type,Product Area,Pain Point Category,Feature Requested,Severity Level,Sentiment Label,Priority Band
+FB-0001,Feature Request,Reporting & Analytics,Slow page performance,Faster dashboard loading,4,Negative,Medium Priority
+FB-0002,Feature Request,Reporting & Analytics,Export limitations,CSV export improvements,3,Neutral,Low Priority
+FB-0003,Product Enhancement,Automation,Repetitive manual work,Workflow automation,5,Neutral,High Priority
+FB-0004,Feature Request,Automation,Repetitive manual work,Workflow automation,5,Positive,High Priority
+FB-0005,Feature Request,Integrations,Scheduling friction,Calendar integration,4,Negative,Medium Priority
+FB-0006,Feature Request,Reporting & Analytics,Slow page performance,Faster dashboard loading,4,Neutral,Medium Priority
+FB-0007,Product Enhancement,Billing,Pricing confusion,Transparent pricing,3,Positive,Low Priority
+FB-0008,Feature Request,Security & Admin,Manual admin work,Bulk user management,5,Negative,Critical
+FB-0009,Feature Request,Onboarding,Unclear setup process,Onboarding checklist,4,Negative,High Priority
+FB-0010,Product Enhancement,Onboarding,Unclear setup process,Onboarding checklist,5,Negative,High Priority
+FB-0011,Product Enhancement,Integrations,Scheduling friction,Calendar integration,3,Positive,Low Priority
+FB-0012,Feature Request,Integrations,Scheduling friction,Calendar integration,4,Negative,Low Priority
+FB-0013,Feature Request,Reporting & Analytics,Limited reporting flexibility,Advanced reporting filters,5,Neutral,Medium Priority
+FB-0014,Product Enhancement,Search & Navigation,Difficulty finding records,Advanced search,4,Neutral,High Priority
+FB-0015,Feature Request,Onboarding,Unclear setup process,Onboarding checklist,3,Negative,Critical
+FB-0016,Integration Request,Integrations,API integration,API integration,4,Positive,Medium Priority
+FB-0017,Customer Experience Issue,Customer Support,Support response time,,5,Neutral,Medium Priority
+FB-0018,Bug,Mobile App,App crash,,5,Negative,Medium Priority
+FB-0019,Usability Issue,Onboarding,Confusing setup,,4,Positive,High Priority
+FB-0020,Product Enhancement,Onboarding,Unclear setup process,Onboarding checklist,3,Neutral,High Priority
+FB-0021,Feature Request,Reporting & Analytics,Limited reporting flexibility,Advanced reporting filters,5,Neutral,Medium Priority
+FB-0022,Performance Issue,Reporting & Analytics,Slow reporting,,5,Negative,Medium Priority
+FB-0023,Product Enhancement,Onboarding,Unclear setup process,Onboarding checklist,4,Positive,Medium Priority
+FB-0024,Feature Request,Automation,Repetitive manual work,Workflow automation,5,Positive,Medium Priority
+FB-0025,Product Enhancement,Notifications,Notification noise,Custom notification rules,5,Positive,Medium Priority
+FB-0026,Product Enhancement,Reporting & Analytics,Slow page performance,Faster dashboard loading,5,Neutral,High Priority
+FB-0027,Positive Feedback,Automation,Automation value,,2,Positive,Low Priority
+FB-0028,Feature Request,Automation,Repetitive manual work,Workflow automation,5,Negative,High Priority
+FB-0029,Feature Request,Reporting & Analytics,Export limitations,CSV export improvements,2,Negative,Low Priority
+FB-0030,Feature Request,Search & Navigation,Difficulty finding records,Advanced search,3,Negative,Medium Priority
+FB-0031,Feature Request,Integrations,Missing workflow integration,Slack integration,5,Neutral,High Priority
+FB-0032,Integration Request,Integrations,API integration,API integration,5,Negative,High Priority
+FB-0033,Product Enhancement,Mobile App,Connectivity limitation,Offline mobile access,3,Negative,Low Priority
+FB-0034,Product Enhancement,Search & Navigation,Difficulty finding records,Advanced search,4,Negative,Medium Priority
+FB-0035,Integration Request,Integrations,API integration,API integration,3,Negative,High Priority
+FB-0036,Feature Request,Integrations,Scheduling friction,Calendar integration,3,Negative,Low Priority
+FB-0037,Bug,Billing,Invoice issue,,5,Negative,Medium Priority
+FB-0038,Feature Request,Integrations,Missing workflow integration,Slack integration,5,Negative,High Priority
+FB-0039,Performance Issue,Reporting & Analytics,Slow reporting,,4,Negative,Medium Priority
+FB-0040,Product Enhancement,Collaboration,Team workflows,Team workflows,2,Positive,Low Priority
+FB-0041,Positive Feedback,Automation,Automation value,,1,Positive,Low Priority
+FB-0042,Feature Request,Integrations,Missing workflow integration,Slack integration,4,Positive,Medium Priority
+FB-0043,Product Enhancement,Notifications,Notification noise,Custom notification rules,5,Positive,Medium Priority
+FB-0044,Feature Request,Billing,Pricing confusion,Transparent pricing,3,Positive,Critical
+FB-0045,Product Enhancement,Notifications,Limited mobile alerts,Mobile push notifications,4,Negative,Low Priority
+FB-0046,Positive Feedback,Automation,Automation value,,1,Positive,Low Priority
+FB-0047,Product Enhancement,Mobile App,Connectivity limitation,Offline mobile access,4,Positive,Low Priority
+FB-0048,Usability Issue,Onboarding,Confusing setup,,5,Neutral,Low Priority
+FB-0049,Feature Request,Mobile App,Connectivity limitation,Offline mobile access,2,Neutral,Medium Priority
+FB-0050,Product Enhancement,Security & Admin,Authentication limitation,SSO enhancement,5,Positive,Critical
+FB-0051,Positive Feedback,Reporting & Analytics,Reporting value,,1,Positive,Medium Priority
+FB-0052,Bug,Billing,Invoice issue,,5,Negative,Medium Priority
+FB-0053,Usability Issue,Onboarding,Confusing setup,,4,Negative,Low Priority
+FB-0054,Product Enhancement,Reporting & Analytics,Limited reporting flexibility,Advanced reporting filters,5,Positive,High Priority
+FB-0055,Product Enhancement,Automation,Repetitive manual work,Workflow automation,5,Positive,High Priority
+FB-0056,Feature Request,Security & Admin,Authentication limitation,SSO enhancement,4,Neutral,Medium Priority
+FB-0057,Product Enhancement,Collaboration,Team workflows,Team workflows,3,Neutral,Low Priority
+FB-0058,Feature Request,Billing,Pricing confusion,Transparent pricing,2,Neutral,Low Priority
+FB-0059,Feature Request,Reporting & Analytics,Limited reporting flexibility,Advanced reporting filters,5,Neutral,Medium Priority
+FB-0060,Feature Request,Search & Navigation,Difficulty finding records,Advanced search,3,Neutral,Critical
+FB-0061,Bug,Billing,Invoice issue,,4,Negative,Medium Priority
+FB-0062,Bug,Mobile App,App crash,,5,Negative,Medium Priority
+FB-0063,Integration Request,Integrations,API integration,API integration,4,Negative,Medium Priority
+FB-0064,Product Enhancement,Reporting & Analytics,Export limitations,CSV export improvements,3,Negative,Medium Priority
+FB-0065,Product Enhancement,Notifications,Limited mobile alerts,Mobile push notifications,3,Neutral,Medium Priority
+FB-0066,Feature Request,Onboarding,Unclear setup process,Onboarding checklist,4,Positive,High Priority
+FB-0067,Product Enhancement,Collaboration,Team workflows,Team workflows,3,Positive,Medium Priority
+FB-0068,Product Enhancement,Notifications,Notification noise,Custom notification rules,4,Negative,Medium Priority
+FB-0069,Pricing Feedback,Billing,Plan value,,3,Neutral,High Priority
+FB-0070,Product Enhancement,Collaboration,Team collaboration friction,Better collaboration comments,2,Negative,Critical
+FB-0071,Product Enhancement,Reporting & Analytics,Slow page performance,Faster dashboard loading,5,Neutral,Critical
+FB-0072,Feature Request,Search & Navigation,Difficulty finding records,Advanced search,4,Negative,High Priority
+FB-0073,Product Enhancement,Security & Admin,Manual admin work,Bulk user management,4,Negative,High Priority
+FB-0074,Performance Issue,Reporting & Analytics,Slow reporting,,4,Negative,High Priority
+FB-0075,Product Enhancement,Search & Navigation,Difficulty finding records,Advanced search,5,Positive,Medium Priority
+FB-0076,Performance Issue,Reporting & Analytics,Slow reporting,,4,Negative,High Priority
+FB-0077,Pricing Feedback,Billing,Plan value,,3,Positive,Low Priority
+FB-0078,Feature Request,Reporting & Analytics,Slow page performance,Faster dashboard loading,5,Negative,Critical
+FB-0079,Product Enhancement,Reporting & Analytics,Limited reporting flexibility,Advanced reporting filters,5,Neutral,Medium Priority
+FB-0080,Pricing Feedback,Billing,Plan value,,3,Positive,Low Priority
+FB-0081,Feature Request,Security & Admin,Manual admin work,Bulk user management,4,Positive,High Priority
+FB-0082,Positive Feedback,Automation,Automation value,,1,Positive,Medium Priority
+FB-0083,Feature Request,Notifications,Limited mobile alerts,Mobile push notifications,4,Negative,Medium Priority
+FB-0084,Performance Issue,Reporting & Analytics,Slow reporting,,4,Negative,Low Priority
+FB-0085,Product Enhancement,Collaboration,Team workflows,Team workflows,3,Neutral,High Priority
+FB-0086,Customer Experience Issue,Customer Support,Support response time,,4,Positive,Low Priority
+FB-0087,Performance Issue,Reporting & Analytics,Slow reporting,,5,Negative,Medium Priority
+FB-0088,Bug,Billing,Invoice issue,,5,Negative,High Priority
+FB-0089,Feature Request,Reporting & Analytics,Slow page performance,Faster dashboard loading,5,Negative,High Priority
+FB-0090,Feature Request,Automation,Repetitive manual work,Workflow automation,5,Negative,Medium Priority
+FB-0091,Feature Request,Billing,Pricing confusion,Transparent pricing,4,Negative,Medium Priority
+FB-0092,Feature Request,Reporting & Analytics,Slow page performance,Faster dashboard loading,5,Positive,High Priority
+FB-0093,Product Enhancement,Security & Admin,Authentication limitation,SSO enhancement,5,Negative,High Priority
+FB-0094,Pricing Feedback,Billing,Plan value,,4,Negative,Medium Priority
+FB-0095,Pricing Feedback,Billing,Plan value,,3,Neutral,High Priority
+FB-0096,Customer Experience Issue,Customer Support,Support response time,,5,Neutral,Medium Priority
+FB-0097,Product Enhancement,Billing,Pricing confusion,Transparent pricing,4,Negative,Medium Priority
+FB-0098,Product Enhancement,Onboarding,Unclear setup process,Onboarding checklist,5,Positive,Medium Priority
+FB-0099,Usability Issue,Onboarding,Confusing setup,,4,Neutral,High Priority
+FB-0100,Customer Experience Issue,Customer Support,Support response time,,4,Positive,High Priority
+FB-0101,Feature Request,Mobile App,Connectivity limitation,Offline mobile access,3,Neutral,Low Priority
+FB-0102,Performance Issue,Reporting & Analytics,Slow reporting,,5,Negative,Medium Priority
+FB-0103,Integration Request,Integrations,API integration,API integration,4,Negative,Critical
+FB-0104,Positive Feedback,Automation,Automation value,,1,Positive,Low Priority
+FB-0105,Customer Experience Issue,Customer Support,Support response time,,4,Negative,Medium Priority
+FB-0106,Product Enhancement,Integrations,Scheduling friction,Calendar integration,4,Neutral,Low Priority
+FB-0107,Product Enhancement,Reporting & Analytics,Slow page performance,Faster dashboard loading,5,Positive,High Priority
+FB-0108,Feature Request,Collaboration,Team collaboration friction,Better collaboration comments,2,Negative,Low Priority
+FB-0109,Positive Feedback,Automation,Automation value,,2,Positive,Medium Priority
+FB-0110,Customer Experience Issue,Customer Support,Support response time,,5,Positive,Critical
+FB-0111,Feature Request,Automation,Repetitive manual work,Workflow automation,4,Negative,High Priority
+FB-0112,Feature Request,Notifications,Limited mobile alerts,Mobile push notifications,3,Negative,High Priority
+FB-0113,Customer Experience Issue,Customer Support,Support response time,,5,Positive,Medium Priority
+FB-0114,Feature Request,Collaboration,Team collaboration friction,Better collaboration comments,3,Positive,Medium Priority
+FB-0115,Positive Feedback,Automation,Automation value,,1,Positive,Low Priority
+FB-0116,Bug,Mobile App,App crash,,5,Negative,Medium Priority
+FB-0117,Feature Request,Billing,Pricing confusion,Transparent pricing,3,Positive,High Priority
+FB-0118,Product Enhancement,Reporting & Analytics,Export limitations,CSV export improvements,4,Neutral,Medium Priority
+FB-0119,Product Enhancement,Security & Admin,Manual admin work,Bulk user management,4,Negative,Medium Priority
+FB-0120,Feature Request,Automation,Repetitive manual work,Workflow automation,5,Neutral,High Priority
